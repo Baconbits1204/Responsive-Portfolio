@@ -284,3 +284,48 @@ footer {text-align: center;
 font-size: 50px;
 background-color: #666;} 
 */
+
+@media (max-width: 980px) {
+    .inner-header{
+        margin: 0 0 0 9em;
+    }
+    .navigation{
+        margin: 0 13em 0 0;
+    }
+      }
+    @media (max-width: 768px) {
+        .inner-header{
+            margin: 0 0 0 7em;
+        }
+        .navigation{
+            margin: 0 18em 0 0;
+        }
+      
+    }
+    @media (max-width: 640px) {
+        .inner-header{
+            margin: 0 0 0 6em;
+        }
+        .navigation{
+            margin: 0 29em 0 0;
+        }
+      
+        
+      .carousel-caption {
+      }
+      .carousel-caption h1 {
+      }
+      .carousel-caption h3 {
+      }
+      
+      .carrousel-caption .btn{}
+     
+      .carousel-indicators {
+      }
+    
+      .display-4{
+      }
+      
+      .social a {}
+    }
+    
