@@ -1,6 +1,8 @@
+html{ 
+background: url(../Images/papyrus.png)!important;
+}
 
 body{
-    background: url(../images/papyrus.png)!important;
     margin: 0%;
 }
 
